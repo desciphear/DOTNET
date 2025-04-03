@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Loyal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\customer\\customerlanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\customer\\customerlanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\landing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\data\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:data\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\customer\\qrcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\customer\\qrcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\customer\\offerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\customer\\offerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\adminlanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\adminlanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\data\\admincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:data\\admincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\viewrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\viewrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\approved.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\approved.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\pending.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\pending.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\refuse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\refuse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\refuseddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\refuseddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\refusedrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\refusedrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\refuseddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\refuseddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\partnerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\partnerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\approvedrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\approvedrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\viewpartner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\viewpartner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|c:\\users\\admin\\downloads\\loyal\\views\\home\\ulanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{121C3D5B-7754-4F4C-BF44-6E20CF3D6326}|Loyal.csproj|solutionrelative:views\\home\\ulanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "Controllers\\RequestController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:12:02.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:14:10.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Data\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "Data\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Data\\CustomerContext.cs",
+              "RelativeToolTip": "Data\\CustomerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:36:23.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T04:53:20.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:41:54.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Login.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAACkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T07:14:43.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerLanding.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Customer\\CustomerLanding.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\CustomerLanding.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Customer\\CustomerLanding.cshtml",
+              "RelativeToolTip": "Views\\Customer\\CustomerLanding.cshtml",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAAK8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T10:11:56.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Landing.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Landing.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Landing.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Landing.cshtml",
+              "RelativeToolTip": "Views\\Home\\Landing.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T11:45:16.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T11:46:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:09:19.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "qrcode.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Customer\\qrcode.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\qrcode.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Customer\\qrcode.cshtml",
+              "RelativeToolTip": "Views\\Customer\\qrcode.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T06:05:12.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:37:41.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OfferDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Customer\\OfferDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\OfferDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Customer\\OfferDetails.cshtml",
+              "RelativeToolTip": "Views\\Customer\\OfferDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T11:22:09.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Details.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwHMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T06:53:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:44:51.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Models\\Request.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Models\\Request.cs",
+              "RelativeToolTip": "Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:54:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T11:45:08.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminLanding.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\AdminLanding.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminLanding.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\AdminLanding.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminLanding.cshtml",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T07:16:46.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T11:45:45.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Data\\AdminContext.cs",
+              "RelativeDocumentMoniker": "Data\\AdminContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Data\\AdminContext.cs",
+              "RelativeToolTip": "Data\\AdminContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:00:47.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\ViewRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ViewRequest.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\ViewRequest.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ViewRequest.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T07:34:52.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T06:20:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Requests.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Requests.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Requests.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Requests.cshtml",
+              "RelativeToolTip": "Views\\Home\\Requests.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:32:18.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Approved.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Approved.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Approved.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Approved.cshtml",
+              "RelativeToolTip": "Views\\Home\\Approved.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T05:03:51.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RefusedDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\RefusedDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\RefusedDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\RefusedDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\RefusedDetails.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:27:45.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Refuse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Refuse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Refuse.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Refuse.cshtml",
+              "RelativeToolTip": "Views\\Home\\Refuse.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:34:10.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pending.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Pending.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Pending.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\Pending.cshtml",
+              "RelativeToolTip": "Views\\Home\\Pending.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:33:12.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RequestDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\RequestDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\RequestDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\RequestDetails.cshtml",
+              "RelativeToolTip": "Views\\Admin\\RequestDetails.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T08:46:44.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RefusedRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\RefusedRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\RefusedRequest.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\RefusedRequest.cshtml",
+              "RelativeToolTip": "Views\\Admin\\RefusedRequest.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T07:34:19.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RefusedDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\RefusedDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\RefusedDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\RefusedDetails.cshtml",
+              "RelativeToolTip": "Views\\Admin\\RefusedDetails.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T11:26:08.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PartnerDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\PartnerDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\PartnerDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\PartnerDetails.cshtml",
+              "RelativeToolTip": "Views\\Admin\\PartnerDetails.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T07:34:04.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApprovedRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\ApprovedRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ApprovedRequest.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\ApprovedRequest.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ApprovedRequest.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T07:31:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:47:38.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ViewPartner.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\ViewPartner.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ViewPartner.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\ViewPartner.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ViewPartner.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T05:17:38.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\AdminPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminPage.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Admin\\AdminPage.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminPage.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:39:18.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "Data\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Data\\UserContext.cs",
+              "RelativeToolTip": "Data\\UserContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:50:47.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ULanding.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\ULanding.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ULanding.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Loyal\\Views\\Home\\ULanding.cshtml",
+              "RelativeToolTip": "Views\\Home\\ULanding.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T04:55:51.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

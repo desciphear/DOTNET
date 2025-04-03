@@ -1,0 +1,47 @@
+﻿
+@model Loyal.Models.AdminCred
+<style>
+    .divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+</style>
+<div class="text-center" style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" >
+    <h1>Admin Login</h1>
+</div>
+
+    <div class="container py-5 mt-md-5">
+        <div class="row d-flex align-items-center justify-content-center h-100">
+            <div class="col-md-8 col-lg-7 col-xl-6">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.svg"
+                     class="img-fluid" alt="Phone image">
+            </div>
+            <div class="col-md-7 col-lg-5 col-xl-5">
+                <form asp-action="ValidateUser" asp-controller="Admin">
+                    <!-- Email input -->
+                    <div data-mdb-input-init class="form-outline mb-4">
+                        <input type="text" asp-for="Username" id="form1Example13" class="form-control form-control-lg" />
+                        <label class="form-label" for="form1Example13">Username</label>
+                    </div>
+
+                    <!-- Password input -->
+                    <div data-mdb-input-init class="form-outline mb-4">
+                        <input type="password" asp-for="Password" id="form1Example23" class="form-control form-control-lg" />
+                        <label class="form-label" for="form1Example23">Password</label>
+                    </div>
+
+                    
+                        
+
+                    <!-- Submit button -->
+                    <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg btn-block">Sign in</button>
+
+                    
+
+                </form>
+            </div>
+        </div>
+    </div>

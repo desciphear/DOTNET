@@ -1,0 +1,193 @@
+﻿@{
+}
+@model List<Request>
+
+
+<style>
+    body {
+        background-color: #fbfbfb;
+    }
+
+    .table-container {
+        margin-top: 100px; /* Adjust this value as needed */
+    }
+
+    .navbar-nav .nav-item .nav-link.active {
+        background-color: #e9ecef;
+        border-radius: 5px;
+    }
+</style>
+
+
+<header>
+    <!-- Navbar -->
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+        <!-- Container wrapper -->
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+           
+
+        </ul>
+        <button class="btn btn-outline-danger" onclick="clearAllPages()">
+            <i class="bi bi-box-arrow-right me-2"></i>Logout
+        </button>
+        <!-- Container wrapper -->
+    </nav>
+  
+    <!-- Navbar -->
+</header><!--Main Navigation-->
+<!--Main layout-->
+<main>
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap-extended.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/fonts/simple-line-icons/style.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/colors.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    
+    <div class="table-container">
+        <h1 class="text-center">Available Offers</h1>
+        <div class="container">
+            <div class="row">
+                @foreach(var dat in Model){
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                    <div class="listing listing-success">
+                        <div class="shape">
+                            <div class="shape-text">@dat.Username</div>
+                            
+                        </div>
+                        <a asp-action="OfferDetails" asp-route-id="@dat.UserId" class="listing-content">
+                            <h3 class="text-center">@dat.Offername</h3>
+                                <div class="text-start ms-5">
+                            <p class="listing-info">@dat.Offerdescription</p>
+                                </div>
+                        </a>
+
+                    </div>
+
+                </div>
+                }
+                
+            </div>
+        </div>
+
+        <style>
+            .shape {
+                border-style: solid;
+                border-width: 0 70px 40px 0;
+                float: right;
+                height: 0px;
+                width: 0px;
+                -ms-transform: rotate(360deg); /* IE 9 */
+                -o-transform: rotate(360deg); /* Opera 10.5 */
+                -webkit-transform: rotate(360deg); /* Safari and Chrome */
+                transform: rotate(360deg);
+            }
+
+            .listing {
+                background: #fff;
+                border: 1px solid #ddd;
+                box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+                margin: 15px 0;
+                overflow: hidden;
+            }
+
+                .listing:hover {
+                    -webkit-transform: scale(1.1);
+                    -moz-transform: scale(1.1);
+                    -ms-transform: scale(1.1);
+                    -o-transform: scale(1.1);
+                    transform: rotate() scale(1.1);
+                    -webkit-transition: all 0.4s ease-in-out;
+                    -moz-transition: all 0.4s ease-in-out;
+                    -o-transition: all 0.4s ease-in-out;
+                    transition: all 0.4s ease-in-out;
+                }
+
+            .shape {
+                border-color: rgba(255,255,255,0) #d9534f rgba(255,255,255,0) rgba(255,255,255,0);
+            }
+
+            .listing-radius {
+                border-radius: 7px;
+            }
+
+            .listing-danger {
+                border-color: #d9534f;
+            }
+
+                .listing-danger .shape {
+                    border-color: transparent #d9533f transparent transparent;
+                }
+
+            .listing-success {
+                border-color: #5cb85c;
+            }
+
+                .listing-success .shape {
+                    border-color: transparent #5cb75c transparent transparent;
+                }
+
+            .listing-default {
+                border-color: #999999;
+            }
+
+                .listing-default .shape {
+                    border-color: transparent #999999 transparent transparent;
+                }
+
+            .listing-primary {
+                border-color: #428bca;
+            }
+
+                .listing-primary .shape {
+                    border-color: transparent #318bca transparent transparent;
+                }
+
+            .listing-info {
+                border-color: #5bc0de;
+            }
+
+                .listing-info .shape {
+                    border-color: transparent #5bc0de transparent transparent;
+                }
+
+            .listing-warning {
+                border-color: #f0ad4e;
+            }
+
+                .listing-warning .shape {
+                    border-color: transparent #f0ad4e transparent transparent;
+                }
+
+         
+
+            .shape-text {
+                color: #fff;
+                font-size: 12px;
+                font-weight: bold;
+                position: relative;
+                right: -30px;
+                top: 2px;
+                white-space: nowrap;
+                -ms-transform: rotate(30deg); /* IE 9 */
+                -o-transform: rotate(360deg); /* Opera 10.5 */
+                -webkit-transform: rotate(30deg); /* Safari and Chrome */
+                transform: rotate(30deg);
+            }
+            .listing-content {
+                padding: 0 20px 10px;
+            }
+        </style>
+    </div>
+</main>
+
+<!--Main layout-->
+<script>
+    function clearAllPages() {
+        // Clear the browser history
+        history.go(-(history.length - 1));
+
+        // Redirect to the home page or any other page
+        window.location.replace('/Customer/Login');
+    }
+</script>

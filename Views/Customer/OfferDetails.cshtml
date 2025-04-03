@@ -1,0 +1,76 @@
+﻿@model Loyal.Models.Request
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap-extended.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #fbfbfb;
+        }
+
+        .table-container {
+            margin-top: 100px;
+        }
+
+        .navbar-nav .nav-item .nav-link.active {
+            background-color: #e9ecef;
+            border-radius: 5px;
+        }
+
+        #qrcode {
+            margin-top: 20px;
+            display: none; /* Hide the QR code initially */
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+    <div id="qrcode"></div>
+    <main>
+        <div class="table-container text-center">
+            <form id="myForm">
+                <div class="form-group mt-1 text-start">
+                    <label for="exampleFormControlInput1">Username</label>
+                    <input type="text" class="form-control" id="exampleFormControlInput1" readonly asp-for="Username">
+                </div>
+                <div class="form-group mt-1 text-start">
+                    <label for="Email">Offer Name</label>
+                    <input type="text" class="form-control" id="Email" readonly asp-for="Offername">
+                </div>
+                <div class="form-group mt-1 text-start">
+                    <label for="sd">Offer Start Date</label>
+                    <input type="date" class="form-control" id="sd" readonly asp-for="StartDate">
+                </div>
+                <div class="form-group mt-1 text-start">
+                    <label for="ed">Offer End Date</label>
+                    <input type="date" class="form-control" id="ed" readonly asp-for="EndDate">
+                </div>
+                <div class="form-group mt-1 text-start">
+                    <label for="ca">Created At</label>
+                    <input type="datetime-local" class="form-control" id="ca" readonly asp-for="CreatedAt">
+                </div>
+                <div class="form-group mt-1 text-start">
+                    <label for="offerdesc">Offer Description</label>
+                    <textarea class="form-control" id="offerdesc" readonly asp-for="Offerdescription" rows="10"></textarea>
+                </div>
+                
+            </form>
+            
+          
+            <a class="btn btn-success mb-2" asp-action="qrcode" >Show QR Code</a>
+        </div>
+        <div class="text-center">
+            <a class="btn btn-outline-danger" asp-action="CustomerLanding">BACK</a>
+        </div>
+    </main>
+
+    
+
+</body>
+</html>

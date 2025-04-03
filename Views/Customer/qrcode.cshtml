@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Loyal.Models.Request
+<style>
+    body {
+        background-color: #fbfbfb;
+    }
+
+    
+
+   
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<h1 class="text-center mt-2">Scan QR Code to Avail OfferCode</h1>
+<div style="margin-left: 40%; margin-top: 15% ">
+<div id="qrcode"></div>
+<div style="margin-left: 10%">
+<a class="btn btn-outline-danger mt-2" asp-action="CustomerLanding">Go Back</a>
+    </div>
+</div>
+<input id="code" asp-for="Code" hidden/>
+<script type="text/javascript">
+    var code = document.getElementById("code").value;
+    const data = `Offer Code: ${code}`;
+    new QRCode(document.getElementById("qrcode"), data);
+</script>
