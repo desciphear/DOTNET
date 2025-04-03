@@ -85,4 +85,4 @@ It also allows **Admins** to monitor activities and approve or reject offers whi
 - Piyush
 
 For any questions or contributions, feel free to open an issue or pull request! 🚀
-**📧(mailto:piyush9891779219@gmail.com)**
+**[📧](mailto:piyush9891779219@gmail.com)**
